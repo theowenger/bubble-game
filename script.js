@@ -2,7 +2,7 @@ const counterDisplay = document.getElementById("count");
 let counter = 1;
 const timer = document.getElementById('timer');
 timer.innerText = "";
-let time = 3;
+let time = 30;
 
 function reduceTime() {
 
